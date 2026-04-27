@@ -136,4 +136,4 @@ jupyter notebook Customer_Churn_Prediction.ipynb
 
 **RIKKA DINESH REDDY**
 - LinkedIn: www.linkedin.com/in/dineshreddyrikka
-- GitHub: [your-github-url]
+- GitHub: https://github.com/dinesh-1621
